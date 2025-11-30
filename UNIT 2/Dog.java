@@ -1,5 +1,5 @@
 // put this class in different Dog.java file
-package clonning;
+package refection;
 
 public class Dog extends Animal {
   public void display() {
