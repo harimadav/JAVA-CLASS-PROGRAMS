@@ -12,7 +12,7 @@ This repo is where I’ll be *uploading my daily Java class programs* — to tra
 - 📘 To maintain a *daily log* of my Java programs and exercises.  
 - 🧩 To improve *problem-solving* and *object-oriented thinking*.  
 - 📂 To organize code based on *concepts and modules*.  
-- 💪 To build a habit of *consistent coding* and self-learning.  
+- 💪 To build a habit of *consistent coding* and self-learning 
 
 ---
 
